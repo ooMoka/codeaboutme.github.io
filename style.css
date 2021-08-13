@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+}
+
+h3 {
+    margin-right: 30px;
+}
+
+.w3-green w3-hover-shadow w3-center {
+    background-color: aqua;
+}
+
+.card {
+    background-color: azure;
+    border-style: solid;
+    border: width 2px;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 20%);
+    transition: all 200ms ease-out;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
